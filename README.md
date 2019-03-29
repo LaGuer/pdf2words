@@ -1,5 +1,8 @@
 # pdf2words Jupyter Notebooks
 
+[![Build Status](https://travis-ci.org/LaGuer/pdf2words.svg?branch=master)](https://travis-ci.org/LaGuer/pdf2words)
+[![Test Coverage Status](https://codecov.io/gh/LaGuer/pdf2words/branch/master/graph/badge.svg)](https://codecov.io/gh/LaGuer/pdf2words)
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LaGuer/pdf2words/master)
 
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/laguer/pdf2words/blob/master/Jupyter-Notebook%20Practice%20Physical%20Constants%20Ratios.ipynb)
