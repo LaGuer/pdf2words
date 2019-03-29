@@ -32,7 +32,7 @@ install:
 # commands to run tests
 script:
   - coverage run --source=pdf2words -m unittest
-  - coverage xml # For Codacy
+#  - coverage xml # For Codacy
 
 deploy:
   provider: pypi
