@@ -1,0 +1,8 @@
+matplotlib==2.1.1
+sqlalchemy
+setuptools
+pypandoc
+coverage==4.1
+pytest==2.9.2
+codecov
+codacy-coverage
